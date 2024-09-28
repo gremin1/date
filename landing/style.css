@@ -1,0 +1,67 @@
+body {
+    font-family: Overpass;
+    margin: 0;
+  }
+  
+  h1, h2, h3 {
+    color: white;
+    font-family: Chivo;
+  }
+  
+  p {
+    color: white;
+  }
+  
+  .container {
+    width: 800px;
+    margin: auto;
+  }
+  
+  .banner {
+    background-color: pink;
+    background-size: cover;
+    background-position: center;
+    padding: 150px 0;
+    text-align: center;
+  }
+  
+  .banner h1 {
+    color: white;
+    font-size: 45px;
+    margin: 0;
+  }
+  
+  .banner p {
+    color: white;
+    font-size: 24px;
+  }
+  
+  .button-blue {
+    background-color: red;
+    color: white;
+    padding: 16px 48px;
+    border-radius: 4px;
+    display: inline-block;
+    text-decoration: none;
+    transition: .3s;
+  }
+  
+  .button-blue:hover {
+    background-color: brown;
+    color: white;
+  }
+
+  .linkedin {
+    color: brown;
+  }
+
+  
+  .footer {
+    background: pink;
+    text-align: center;
+    padding: 24px 0;
+  }
+  
+  .footer p {
+    color: white;
+  }
